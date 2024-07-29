@@ -2,5 +2,6 @@
 {
     public class CreateCategoryDto
     {
+        public int deneme {get;set;}
     }
 }
