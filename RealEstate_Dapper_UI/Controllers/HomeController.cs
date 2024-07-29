@@ -15,7 +15,7 @@ namespace RealEstate_Dapper_UI.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(); 
         }
 
         public IActionResult Privacy()
